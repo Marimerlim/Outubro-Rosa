@@ -1,5 +1,5 @@
 Desafio 2 do curso de Desenvolvimento FullStack - Empower Vai na Web
-O design disponibilizado através do Figma
+ / Design proposto
 ![Captura de tela 2024-10-18 200730](https://github.com/user-attachments/assets/feea9adc-9c3b-4768-a4fc-276fb3da7566)
 ![Captura de tela 2024-10-18 200605](https://github.com/user-attachments/assets/fe549d8f-e9a2-4392-b357-905fcefa7d07)
 ![Captura de tela 2024-10-18 200620](https://github.com/user-attachments/assets/f41fec7b-d721-48cf-acfd-2caa6dc14279)
